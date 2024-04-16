@@ -6,4 +6,4 @@ Stanford CS144 offers a comprehensive introduction to computer networking, provi
 
 ## Lab
 
-I implemented the sponge version [here](./lab/sponge/).
+I implemented the sponge version [here](https://github.com/coleanthony/sponge).
